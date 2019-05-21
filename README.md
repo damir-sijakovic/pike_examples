@@ -1,3 +1,3 @@
 # PIKE Shorties
 
-Short Pike examples, made to help me remember how are thing done in Pike language.
+Short [Pike](https://pike.lysator.liu.se/). examples, made to help me remember how are thing done in Pike language.
