@@ -1,4 +1,4 @@
-# PIKE Shorties
+# PIKE Examples
 
 ![pike_tensorflow](https://repository-images.githubusercontent.com/187898146/d007c000-e456-11e9-9541-f3b485fd04b6)
 
